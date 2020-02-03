@@ -12,3 +12,7 @@ A sentiment analysis job about the problems of each major U.S. airline. Twitter 
 The data we're providing on Kaggle is a slightly reformatted version of the original source. It includes both a CSV file and SQLite database.
 
 I have gone through various Text Preprocessing step after that fitted my Text model using fastai library and then classified the Sentiments.
+
+
+### Refrences
+- https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing
